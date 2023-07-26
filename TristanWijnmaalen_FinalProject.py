@@ -145,7 +145,7 @@ def Triangle(base, height):
             print("The formula used to calculate the area of a triangle in this program is "+str(base)+"*"+str(height)+"/2")
         elif ch1 == '2':
             area = round(base*height/2,2)
-            print("The area of the triangle is "+str(area)+". (Rounded to 2 decimal places")
+            print("The area of the triangle is "+str(area)+". (Rounded to 2 decimal places)")
         else:
             break
         
