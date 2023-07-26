@@ -1,5 +1,5 @@
 """
-File: TristanWijnmaalen_Final.py
+File: TristanWijnmaalen_FinalProject.py
 07/26/2023
 Final Project for Intro to Python
 
